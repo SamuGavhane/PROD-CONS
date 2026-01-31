@@ -3,4 +3,4 @@ def take_input():
     print(text)
 
 if __name__ == "__main__":
-    print("hello")
+   take_input()

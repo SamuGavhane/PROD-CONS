@@ -1,3 +1,9 @@
+def print_10(text):
+    i=0
+    while i<10:
+        print(text)
+        i=i+1
+
 
 def print_forever(text):
     while True:
@@ -5,4 +11,4 @@ def print_forever(text):
 
 
 if __name__ == '__main__':
-    print_forever("Heyy")
+    print_10("Hello")

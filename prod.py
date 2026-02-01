@@ -11,4 +11,4 @@ def print_forever(text):
 
 
 if __name__ == '__main__':
-    print_forever("Heyy")
+    print_10("Hello")
